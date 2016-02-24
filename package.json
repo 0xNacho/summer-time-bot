@@ -1,0 +1,27 @@
+{
+  "name": "summer-time-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xNacho/summer-time-bot"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "0xNacho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xNacho/summer-time-bot/issues"
+  },
+  "homepage": "https://github.com/0xNacho/summer-time-bot",
+  "devDependencies": {
+    "moment": "^2.11.2",
+    "twitter": "^1.2.5"
+  }
+}
