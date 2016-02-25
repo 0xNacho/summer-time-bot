@@ -1,9 +1,6 @@
 exports.twitterCredentials = function(){
 	return {
-		consumer_key: '',
-	 	consumer_secret: '',
-	  	access_token_key: '',
-	  	access_token_secret: ''
+
 	}
 };
 exports.randomGIF = function(){
@@ -15,3 +12,5 @@ exports.randomGIF = function(){
 	];
 	return gifs[Math.floor(Math.random() * gifs.length)];
 };
+
+exports.endDate = new Date("Wed Jun 15 2016");
