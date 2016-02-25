@@ -2,7 +2,8 @@
 :sun_with_face: :palm_tree: :sun_with_face: :smile: :partly_sunny:
 [<img src="http://www.hiltonhawaiianvillage.com/assets/img/discover/oahu-island-activities/HHV_Oahu-island-activities_Content_Beaches_455x248_x2.jpg">](Beach)
 ##Introduction
-How much time is left for summer schedule(work)?
+How Many Days Until Summer 2016?  For some people summer officially starts on June 15st. :smile:
+
 
 ##Installation
 You need to set up a crontab as follows:<br/>
