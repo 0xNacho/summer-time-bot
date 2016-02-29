@@ -1,6 +1,9 @@
 exports.twitterCredentials = function(){
 	return {
-
+		consumer_key: 's843sgwKRHwW0XzL005uHW1m1',
+	 	consumer_secret: 'XCtJqG446VZChN02sA9VQ6EhBJHRkWh7T4JcLOazaLJ736GuXC',
+	  	access_token_key: '702594975020744704-CQDpOVb251OsOCdIW4kvXfqAvWkhOr1',
+	  	access_token_secret: 'OhIL8qlwwh9vgoyEC6fYyBgcvfGOyvu7yTNz20zPgYSoW'
 	}
 };
 exports.randomGIF = function(){

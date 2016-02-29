@@ -30,10 +30,11 @@ var Bot = function(config, finish) {
 	//Get a gif
 	this.gif = this.pickRandomGIF();
 	this.message = this.componseMessage();
-
-	this.choniza(this.message, this.gif, function(message){
-		finish(message);
-	});
+	this.message = this.message  + ' ' + this.gif;
+	finish(this.message);
+	//this.choniza(this.message, this.gif, function(message){
+	//	finish(message);
+	//});
 };
 //Componse the message with some random gif.
 Bot.prototype.componseMessage = function(tLeft, tLeftText, g){
