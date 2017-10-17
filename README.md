@@ -12,7 +12,7 @@ You need to set up a crontab as follows:<br/>
 
 After this, you need to add a new line with the script execution:<br/>
 
-``#Execute every day at 8:0 AM``<br/>
+`` Execute every day at 8:0 AM``<br/>
 ``0 8 * * * node /opt/summer-time-bot/index.js``
 
 ## Live demo
